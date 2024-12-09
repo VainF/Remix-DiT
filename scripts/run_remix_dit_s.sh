@@ -1,0 +1,1 @@
+torchrun --nnodes=1 --nproc_per_node=8 --master_port=22238 train_fast.py --model RemixDiT-S/2 --load-weight pretrained/DiT_S_2_2M.pt --data-path data/imagenet_encoded --epochs 100 --prefix RemixDiT-S-4-8-100K --ckpt-every 50000 --n-basis 4 --n-experts 8

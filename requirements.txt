@@ -1,0 +1,8 @@
+torch>=2.2.1
+timm
+numpy
+torchvision
+diffusers>=0.31.0
+timm
+accelerate
+wandb
