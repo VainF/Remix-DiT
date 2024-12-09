@@ -1,7 +1,7 @@
 ## Remix-DiT
 
 <div align="center">
-  <img src="assets/remix.png" width="100%" />
+  <img src="./assets/remix.png" width="100%" />
 </div>
 
 
