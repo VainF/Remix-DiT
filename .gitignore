@@ -14,5 +14,4 @@ samples-*
 results-*
 outputs
 *.log
-*.png
 *.pdf
