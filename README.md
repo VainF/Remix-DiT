@@ -8,7 +8,7 @@
 > **Remix-DiT: Mixing Diffusion Transformers for Multi-Expert Denoising**  
 > [Gongfan Fang](https://fangggf.github.io/), [Xinyin Ma](https://horseee.github.io/), [Xinchao Wang](https://sites.google.com/site/sitexinchaowang/)    
 > [National University of Singapore](https://nus.edu.sg/)  
-📄 [[Arxiv]]()
+📄 [[Arxiv]](https://arxiv.org/abs/2412.05628)
 
 
 ## 0. Introduction
