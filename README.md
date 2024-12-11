@@ -12,7 +12,7 @@
 
 
 ## 0. Introduction
-The goal of Remix-DiT is to craft N diffusion experts for different denoising timesteps, yet without the need for expensive training of N independent models. Each expert only hanles a subset of the denoising tasks, and thus can extend the total capacity without heavily increase the active model size on each timestep. To achieve this, Remix-DiT employs K basis models (where K < N) and utilizes learnable mixing coefficients to adaptively craft expert models. 
+The goal of Remix-DiT is to craft N diffusion experts for different denoising timesteps, yet without the need for expensive training of N independent models. Each expert only handles a subset of the denoising tasks and thus can extend the total capacity without heavily increasing the active model size on each timestep. To achieve this, Remix-DiT employs K basis models (where K < N) and utilizes learnable mixing coefficients to adaptively craft expert models. 
 
 ## 1. Preparation
 
