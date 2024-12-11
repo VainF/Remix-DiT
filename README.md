@@ -26,7 +26,7 @@ pip install -r requirements.txt
 torchrun --nnodes=1 --nproc_per_node=1 extract_features.py --model DiT-XL/2 --data-path data/imagenet/train --features-path data/imagenet_encoded
 ```
 
-### Download Pre-trained DiT-S/2
+### Download Pre-trained DiT-S/2 (Will be released soon)
 
 ```bash
 mkdir -p pretrained && cd pretrained
